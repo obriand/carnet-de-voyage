@@ -1,4 +1,6 @@
-package com.obriand.carnetdevoyage;
+package com.colibri.carnetdevoyage;
+
+import com.colibri.carnetdevoyage.R;
 
 import android.os.Bundle;
 import android.app.Activity;
